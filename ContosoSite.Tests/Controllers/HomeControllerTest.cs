@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Web.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ContosoSite;
 using ContosoSite.Controllers;
 
 namespace ContosoSite.Tests.Controllers

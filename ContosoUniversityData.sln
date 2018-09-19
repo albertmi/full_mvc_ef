@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ContosoUniversityData", "ContosoUniversityData\ContosoUniversityData.sqlproj", "{305C7F4C-ED98-4AA5-A188-87DBB83B9434}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoSite.Tests", "ContosoSite.Tests\ContosoSite.Tests.csproj", "{FEAFB7FE-D253-4017-82E0-4D8134518DFD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0A0CC712-A9D0-414D-9106-35D5C66D4D50} = {0A0CC712-A9D0-414D-9106-35D5C66D4D50}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoSite", "ContosoSite\ContosoSite.csproj", "{0A0CC712-A9D0-414D-9106-35D5C66D4D50}"
 EndProject

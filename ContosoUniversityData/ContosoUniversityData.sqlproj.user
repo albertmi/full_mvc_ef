@@ -3,5 +3,7 @@
   <PropertyGroup>
     <StartupScript>(Blank)</StartupScript>
     <StartAction>StartNone</StartAction>
+    <TargetConnectionString>Data Source=.\SQLEXPRESS;Initial Catalog=ContosoUniversityData;Integrated Security=True;Pooling=False</TargetConnectionString>
+    <DropObjectsNotInSource>False</DropObjectsNotInSource>
   </PropertyGroup>
 </Project>
