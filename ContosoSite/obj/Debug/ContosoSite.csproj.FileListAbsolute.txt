@@ -75,7 +75,6 @@ C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\Cont
 C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\bin\Newtonsoft.Json.dll
 C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\bin\Owin.dll
 C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\bin\System.Web.Helpers.dll
-C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\bin\System.Web.Mvc.dll
 C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\bin\System.Web.Optimization.dll
 C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\bin\System.Web.Razor.dll
 C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\bin\System.Web.WebPages.Deployment.dll
@@ -83,7 +82,6 @@ C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\Cont
 C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\bin\System.Web.WebPages.Razor.dll
 C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\bin\WebGrease.dll
 C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\bin\System.Web.Helpers.xml
-C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\bin\System.Web.Mvc.xml
 C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\bin\System.Web.Optimization.xml
 C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\bin\System.Web.Razor.xml
 C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\bin\System.Web.WebPages.xml
