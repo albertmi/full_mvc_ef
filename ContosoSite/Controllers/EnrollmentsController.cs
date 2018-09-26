@@ -18,7 +18,7 @@ namespace ContosoSite.Controllers
         public ActionResult Index()
         {
             var enrollments = db.Enrollments.Include(e => e.Course).Include(e => e.Student);
-            return View(enrollments.ToList());
+            return View(enrollments.ToList()); 
         }
 
         // GET: Enrollments/Details/5

@@ -29,5 +29,7 @@ namespace ContosoSite.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<ContosoSite.Models.Movie> Movies { get; set; }
     }
 }

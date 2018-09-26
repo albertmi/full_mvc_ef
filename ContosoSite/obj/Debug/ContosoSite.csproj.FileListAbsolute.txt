@@ -103,6 +103,13 @@ C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\Cont
 C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\obj\Debug\ContosoSite.csprojResolveAssemblyReference.cache
 C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\obj\Debug\ContosoSite.dll
 C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\obj\Debug\ContosoSite.pdb
+C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\bin\Microsoft.Web.Helpers.dll
+C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\bin\WebMatrix.Data.dll
+C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\bin\WebMatrix.WebData.dll
+C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\bin\WebMatrix.Data.xml
+C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\bin\WebMatrix.WebData.xml
+C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\bin\System.Web.Mvc.dll
+C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\bin\System.Web.Mvc.xml
+C:\Users\IEUser\Documents\Visual Studio 2013\Projects\ContosoUniversityData\ContosoSite\obj\Debug\ContosoSite.csprojResolveAssemblyReference.cache

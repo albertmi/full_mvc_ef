@@ -15,7 +15,7 @@ namespace ContosoSite.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application description page for personal build.";
 
             return View();
         }
